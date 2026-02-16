@@ -2,7 +2,6 @@ backend:
   name: github
   repo: jmmoore/jmmoore.github.io
   branch: main
-  base_url: https://elegant-rolypoly-f9a9cf.netlify.app/
 
 media_folder: static/images
 public_folder: /images
