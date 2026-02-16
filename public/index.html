@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.155.3"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>My New Hugo Site</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="My New Hugo Site (Alt + H)">My New Hugo Site</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span class="active">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="first-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Advent of Code 2020
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>In what now feels like a previous life I got paid to be a software developer. I worked with Java and Python and a Java derivative called Kotlin. I struggled with some of the architecture side of things. My ability to solve specific local problems with code was pretty solid, but ask me to design a larger solution or an entire software system and I’d falter.
+I’ve since moved into the application space, supporting ServiceNow in my current role. The work I do is more strategic than tactical, and I’ve missed some of that other kind of work, stretching my abilities to solve specific problems in the present moment.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Advent of Code 2020" href="http://localhost:1313/posts/2020-12-01-advent-of-code/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Capsule Reviews
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>On my company’s internal social network, I periodically post short reviews of books I’ve read. In an effort to do those reviews in a more timely fashion (and also to have something to publish this week), I’m doing those reviews here. Expect to see games and film here as well.
+I’m in a mode of increased media consumption during the pandemic, so I might as well try to encapsulate my thoughts in one form or another.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Capsule Reviews" href="http://localhost:1313/posts/2020-08-06-capsule-reviews/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Capsule Reviews - November 2020
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>
+When I finish a book, I put it in a stack on top of my bookcases, and refuse to properly shelve it until I can annotate it for my commonplace book and write a short review.
+I’ve assembled quite a backlog since August, when I last wrote one of these.
+A Memory Called Empire by Arkady Martine A few times a year, a book (usually a novel) grabs me by the collar and forces me to engage with it. A Memory Called Empire was this kind of novel.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Capsule Reviews - November 2020" href="http://localhost:1313/posts/2020-11-16-capsule-reviews/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">CSS: Center Multiple Lines on a Shared Character
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>In my work sprucing up College Hill Creative’s homepage, I discovered something that bothered me at the bottom of each page. The roster was formatted like so:
+&lt;p style=&#34;text-align: center&#34;&gt; Name Number One | Title Number One&lt;br/&gt; Slightly Shorter | Shorter Title&lt;br/&gt; Tiny | Tiny&lt;br/&gt; &lt;/p&gt; It rendered like this:
+Name Number One | Title Number One Slightly Shorter | Shorter Title Tiny | Tiny The fact that the text wasn’t centered on the pipes bothered me significantly, and I went to work trying to fix the issue.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to CSS: Center Multiple Lines on a Shared Character" href="http://localhost:1313/posts/2017-05-25-css-center-multiple-lines-horizontally/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Don&#39;t Be Precious
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I’m not very nice to my books. I dogear the pages, write in the margins, underline passages and sometimes break the spines (never intentionally). It’s my quest in life to learn as much as possible, and my path to do that is littered with ruined books.
+It wasn’t always this way, though.
+Precious Books Throughout my adolescence and early adulthood, I revered books. I loved the way they looked on the shelves, the perfect smoothness of a well-handled spine, all of it. My time working at Barnes and Noble put me in the company of a lot of book people. They, like me, held a similar reverence for the printed word.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Don&#39;t Be Precious" href="http://localhost:1313/posts/2017-05-26-dont-be-precious/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Kansas Linux Fest 2017
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Kansas Linux Fest (2017) Backstory Founded in 2015, Kansas Linux Fest is Wichita’s premiere open source conference.
+I became aware of KLF in 2016 by way of devICT’s Slack group. Although I was unable to attend that year, the festival remained in the back of my mind. When the opportunity to attend this year came around, I jumped at the chance.
+It’s hard to beat free With sponsorships from Wichita State and some software companies, the Fest is able to offer attendance for no charge. As I had been recently laid off, this was a great boon. I felt this so generous that I offered to volunteer my time to help with setup, breakdown and other tasks as needed.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Kansas Linux Fest 2017" href="http://localhost:1313/posts/2017-05-24-kansas-linux-fest/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Lefty Typing
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Which thumb do you primarily use on the space bar? I’m left-handed and thus I use my left thumb to space.
+The last time I trimmed my fingernails, I cut the nail on the outside edge of my left thumb too short.
+I’m a person who primarily communicates through typing and this is understandably causing me a bit of distress. As an experiment, I attempted to type with my right thumb in order to avoid the pain. In so doing, I entered an entirely separate world of pain.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Lefty Typing" href="http://localhost:1313/posts/2020-08-11-lefty-typing/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Minimum Viable Day
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I have a habit of overcommitting.
+With the best intentions, I set lofty personal and professional goals.
+For a while, everything is great. I’m hitting my marks, doing everything on my list.
+Then, something happens.
+I miss a workout, or sleep in too late, or spend a Saturday locked to the couch playing a video game.
+After a temporary setback, everything falls apart.
+If you’re anything like me, you’ve gone through this exact cycle.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Minimum Viable Day" href="http://localhost:1313/posts/2020-06-17-minimum-viable-day/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">More November 2020 Capsule Reviews
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>
+I decided that I was on a bit of a roll and that I’d continue to catch up on these short reviews.
+I find these useful because it forces me to think more critically about what I’m consuming. Often I find myself consuming without thinking, whether it’s a television show or a video game or a book. Putting thoughts down is a reflective act that I want to do more of.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to More November 2020 Capsule Reviews" href="http://localhost:1313/posts/2020-11-17-more-november-capsule-reviews/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">November Reviews III: Way, Way Behind
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>
+I’m keeping the streak going with these and catching up to current. Up to now, I’ve reviewed every book that I read. The problem with that is that I don’t have meaningful thoughts on all of them.
+So, with that said, if you want to see all the books I read (for whatever reason), check out my goodreads!
+Breath by James Nestor We breathe between six and ten times per minute, every minute, for every hour and day of our lives. This book is a fascinating exploration of the connection between breath and health, breath and mindfulness, breath and higher states of consciousness.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to November Reviews III: Way, Way Behind" href="http://localhost:1313/posts/2020-11-18-november-reviews-the-third/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="http://localhost:1313/page/2/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">My New Hugo Site</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Conference on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/conference/</link>
+    <description>Recent content in Conference on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kansas Linux Fest 2017</title>
+      <link>http://localhost:1313/posts/2017-05-24-kansas-linux-fest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-05-24-kansas-linux-fest/</guid>
+      <description>KLF 2017 Overview</description>
+    </item>
+    <item>
+      <title>Tech Midwest Lightning Talk</title>
+      <link>http://localhost:1313/posts/2017-06-03-tech-midwest-lightning-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-03-tech-midwest-lightning-talk/</guid>
+      <description>Lightning Talk</description>
+    </item>
+  </channel>
+</rss>

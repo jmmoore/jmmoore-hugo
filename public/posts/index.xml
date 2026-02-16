@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2020</title>
+      <link>http://localhost:1313/posts/2020-12-01-advent-of-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-12-01-advent-of-code/</guid>
+      <description>Programming puzzles for everyone!</description>
+    </item>
+    <item>
+      <title>Capsule Reviews</title>
+      <link>http://localhost:1313/posts/2020-08-06-capsule-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-08-06-capsule-reviews/</guid>
+      <description>Short reviews of recently consumed media.</description>
+    </item>
+    <item>
+      <title>Capsule Reviews - November 2020</title>
+      <link>http://localhost:1313/posts/2020-11-16-capsule-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-11-16-capsule-reviews/</guid>
+      <description>More book reviews</description>
+    </item>
+    <item>
+      <title>CSS: Center Multiple Lines on a Shared Character</title>
+      <link>http://localhost:1313/posts/2017-05-25-css-center-multiple-lines-horizontally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-05-25-css-center-multiple-lines-horizontally/</guid>
+      <description>One solution to an interesting problem</description>
+    </item>
+    <item>
+      <title>Don&#39;t Be Precious</title>
+      <link>http://localhost:1313/posts/2017-05-26-dont-be-precious/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-05-26-dont-be-precious/</guid>
+      <description>Just Ship!</description>
+    </item>
+    <item>
+      <title>Kansas Linux Fest 2017</title>
+      <link>http://localhost:1313/posts/2017-05-24-kansas-linux-fest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-05-24-kansas-linux-fest/</guid>
+      <description>KLF 2017 Overview</description>
+    </item>
+    <item>
+      <title>Lefty Typing</title>
+      <link>http://localhost:1313/posts/2020-08-11-lefty-typing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-08-11-lefty-typing/</guid>
+      <description>The costs of learning new things.</description>
+    </item>
+    <item>
+      <title>Minimum Viable Day</title>
+      <link>http://localhost:1313/posts/2020-06-17-minimum-viable-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-06-17-minimum-viable-day/</guid>
+      <description>How to make the minimum happen</description>
+    </item>
+    <item>
+      <title>More November 2020 Capsule Reviews</title>
+      <link>http://localhost:1313/posts/2020-11-17-more-november-capsule-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-11-17-more-november-capsule-reviews/</guid>
+      <description>More book reviews</description>
+    </item>
+    <item>
+      <title>November Reviews III: Way, Way Behind</title>
+      <link>http://localhost:1313/posts/2020-11-18-november-reviews-the-third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-11-18-november-reviews-the-third/</guid>
+      <description> book reviews</description>
+    </item>
+    <item>
+      <title>On &#39;Big Boy&#39; Hosting</title>
+      <link>http://localhost:1313/posts/2017-07-18-on-big-boy-hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-18-on-big-boy-hosting/</guid>
+      <description>How I Migrated to a Real Hosting Provider</description>
+    </item>
+    <item>
+      <title>On False Dichotomies</title>
+      <link>http://localhost:1313/posts/2017-06-22-on-false-dichotomies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-22-on-false-dichotomies/</guid>
+      <description>How to Realize the Futility of Mutual Exclusivity</description>
+    </item>
+    <item>
+      <title>On Leaving GitHub</title>
+      <link>http://localhost:1313/posts/2017-07-19-on-leaving-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-19-on-leaving-github/</guid>
+      <description>Choosing a More Respectable Code Repository</description>
+    </item>
+    <item>
+      <title>On New Games</title>
+      <link>http://localhost:1313/posts/2017-07-20-on-new-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-20-on-new-games/</guid>
+      <description>The Struggle New Multiplayer Games Face</description>
+    </item>
+    <item>
+      <title>On Side Projects</title>
+      <link>http://localhost:1313/posts/2017-07-17-on-side-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-17-on-side-projects/</guid>
+      <description>Why It&amp;#39;s Important to Have Work Samples</description>
+    </item>
+    <item>
+      <title>On Stubbornness and Grit</title>
+      <link>http://localhost:1313/posts/2017-06-16-on-grit-and-determination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-16-on-grit-and-determination/</guid>
+      <description>How to Recognize When to Not Give Up</description>
+    </item>
+    <item>
+      <title>On Unemployment Malaise</title>
+      <link>http://localhost:1313/posts/2017-06-21-on-unemployment-malaise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-21-on-unemployment-malaise/</guid>
+      <description>How to identify and overcome post-layoff ennui</description>
+    </item>
+    <item>
+      <title>On Yakuza 0 (zero)</title>
+      <link>http://localhost:1313/posts/2017-07-24-on-yakuza-zero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-24-on-yakuza-zero/</guid>
+      <description>A game about gangsters, lost love, and real estate?</description>
+    </item>
+    <item>
+      <title>Process is Everything</title>
+      <link>http://localhost:1313/posts/2020-11-29-process-is-everything/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-11-29-process-is-everything/</guid>
+      <description>A more expansive definition of process</description>
+    </item>
+    <item>
+      <title>Remaking a Relationship</title>
+      <link>http://localhost:1313/posts/2020-06-09-remaking-a-relationship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-06-09-remaking-a-relationship/</guid>
+      <description>How to talk to your dad like a grown-up</description>
+    </item>
+    <item>
+      <title>Tech Midwest Lightning Talk</title>
+      <link>http://localhost:1313/posts/2017-06-03-tech-midwest-lightning-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-06-03-tech-midwest-lightning-talk/</guid>
+      <description>Lightning Talk</description>
+    </item>
+    <item>
+      <title>Why Zenyatta is the Best Character in Overwatch</title>
+      <link>http://localhost:1313/posts/2017-08-27-why-zenyatta-is-the-best-overwatch-character/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-08-27-why-zenyatta-is-the-best-overwatch-character/</guid>
+      <description>A Critical Analysis</description>
+    </item>
+  </channel>
+</rss>

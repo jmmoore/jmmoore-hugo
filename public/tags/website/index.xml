@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Website on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/website/</link>
+    <description>Recent content in Website on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On &#39;Big Boy&#39; Hosting</title>
+      <link>http://localhost:1313/posts/2017-07-18-on-big-boy-hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2017-07-18-on-big-boy-hosting/</guid>
+      <description>How I Migrated to a Real Hosting Provider</description>
+    </item>
+  </channel>
+</rss>
