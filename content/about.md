@@ -1,5 +1,4 @@
 ---
-draft: false
 title: About
 ---
 
@@ -9,16 +8,16 @@ I live in Wichita, Kansas. Some other things about me:
 
 * I'm a cat person.
 * I'm a fraternal twin.
-* I'm a graduate of Seth Godin's altMBA (Udon gang! :ramen:)
+* I'm a graduate of Seth Godin's altMBA (RIP)
 * I play the saxophone.
-* I love to read.
+* I currently have one child and want more.
 * I'm passionate about mental health and emotional intelligence.
 
 Some things about this site:
 
-* It uses the Lanyon theme of [Poole](https://getpoole.com/), a pre-made template for Jekyll static sites.
+* It's using the [Hugo](https://gohugo.io/) static site framework.
 * It's developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com).
-* I use [Visual Studio Code](https://code.visualstudio.com/) to manage the pages and the GitHub repo.
+* I use [Warp](https://www.warp.dev/) to manage the files and the repo.
 
 ---
 ## Contact
