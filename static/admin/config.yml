@@ -5,7 +5,7 @@ backend:
   auth_type: implicit
   app_id: Ov23lioqF4Ap9bxUXnpK
 
-media_folder: static/images
+media_folder: static/uploads
 public_folder: /images
 
 collections:
@@ -14,8 +14,9 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    format: "yaml-frontmatter"
+    extension: "md"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string", required: false }
       - { label: "Categories", name: "categories", widget: "list", required: false }
