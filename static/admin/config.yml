@@ -14,7 +14,6 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    format: "yaml-frontmatter"
     extension: "md"
     fields:
       - { label: "Title", name: "title", widget: "string" }
